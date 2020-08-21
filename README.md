@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Covid-19 Live Dashboard
 
+<a href="https://tracking.gitads.io/?repo=covid-19-dashboard">
+ <img src="https://images.gitads.io/covid-19-dashboard" alt="GitAds"/> 
+</a>
+
+
 ### [Live Site](https://covid-19-liveupdate.netlify.app//)
 
 ![Covid-19 Dashboard](https://i.ibb.co/zfkhpLh/Screenshot.pn)
