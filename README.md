@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### [Live Site](https://covid-19-liveupdate.netlify.app//)
 
-![Covid-19 Dashboard](https://i.ibb.co/zfkhpLh/Screenshot.pn)
+![Covid-19 Dashboard]
 
 ## Intro:
 This project is done by ```me ,Md.Wasif, Ayantika & Archisman``` as an intern at ```NullStack Technologies Pvt. Ltd. - Summer Internship 2020```
