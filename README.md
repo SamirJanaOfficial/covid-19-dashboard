@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### [Live Site](https://covid-19-liveupdate.netlify.app//)
 
 
-## Introduction
+## Intro:
 This project is done by ```me ,Md.Wasif, Ayantika & Archisman``` as an intern at ```NullStack Technologies Pvt. Ltd. - Summer Internship 2020```
 
 Special Thanks to ```Sayema Mam``` & ```Nauman Sir```.
