@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Introduction
-This project is done by me ,Md.Wasif, Ayantika & Archisman as an intern at NullStack Technologies Pvt. Ltd. - Summer Internship 2020
+This project is done by ```me ,Md.Wasif, Ayantika & Archisman``` as an intern at ```NullStack Technologies Pvt. Ltd. - Summer Internship 2020```
 
-Special Thanks to Sayema Mam & Nauman Sir.
+Special Thanks to ```Sayema Mam``` & ```Nauman Sir```.
 
 This project is made with reactjs and css. 
 
