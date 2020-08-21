@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Covid-19 Live Dashboard
 
+# Realtime Tracker Application
+
 ### [Live Site](https://covid-19-liveupdate.netlify.app//)
 
 ![Covid-19 Dashboard](https://user-images.githubusercontent.com/64221555/90863647-0ae74f00-e3ad-11ea-8580-ab3ddc4ef729.png)
