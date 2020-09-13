@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Intro:
-This project is done by ```me ,Md.Wasif, Ayantika & Archisman``` as an intern at ```NullStack Technologies Pvt. Ltd. - Summer Internship 2020```
+This project is done by ```me/Samir Jana ,Md.Wasif, Ayantika & Archisman``` as an intern at ```NullStack Technologies Pvt. Ltd. - Summer Internship 2020```
 
 Special Thanks to ```Sayema Mam``` & ```Nauman Sir```.
 
