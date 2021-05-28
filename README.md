@@ -20,3 +20,7 @@ API used: https://covid19.mathdro.id/api
 
 Setup:
 - run ```npm i && npm start```
+
+Deploy It Yourself:
+
+[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SamirJanaOfficial/covid-19-dashboard)
